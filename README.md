@@ -54,7 +54,6 @@ C'est un terrain d'entraînement qui tourne en production, utilisé tous les jou
 Une doc honnête dit aussi ce qui reste à faire.
 
 - Les configurations Docker (volumes montés en bind) ne sont pas encore sauvegardées automatiquement
-- SSH est encore accessible par mot de passe, l'objectif est de passer en clé uniquement
 - Quatre conteneurs arrêtés et une vingtaine de gigaoctets d'images inutilisées attendent un nettoyage
 - Aucune redondance matérielle : le serveur est un point de défaillance unique, et le disque des médias est en USB
 

@@ -46,7 +46,6 @@ Ce que ça protège : une image qui change sous vos pieds, une régression non v
 
 ## Ce qui reste à faire
 
-- **SSH en clé uniquement.** C'est la première chose que je fermerai : le mot de passe reste accepté aujourd'hui.
 - **Segmentation réseau.** Tout est sur le même sous-réseau, appareils personnels compris. Un VLAN séparé pour les objets connectés limiterait les dégâts en cas de compromission d'un de ces appareils.
 - **Sauvegarder les configurations.** Une machine bien configurée mais non sauvegardée reste fragile, voir [stockage-sauvegardes.md](stockage-sauvegardes.md).
 
